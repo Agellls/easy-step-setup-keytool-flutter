@@ -144,12 +144,12 @@ When you see this error when try login your app this is a new version of firebas
 3. Then goto 'Credentials'
    ![alt text](assets/image-5.png)
 4. You will be see like this
-   ![alt text](assets/image-6.png)
+   ![alt text](assets/image-7.png)
 5. If youre input 3 SHA-1 it will be show 3 copy all of that
 6. Open your firebase again goto inside your project
 7. Then click Authentication > Sign-in method > click icon pencil on Google icon
 8. Input your all client ID form your copy before here and save
-   ![alt text](assets/image-7.png)
+   ![alt text](assets/image-6.png)
 
 Now try debug again and try release mode too your error will be fix
 
